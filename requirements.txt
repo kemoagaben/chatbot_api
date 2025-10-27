@@ -1,1 +1,14 @@
-flask
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# HTTP Client
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Optional: AI/ML
+# openai>=1.0.0
+# transformers>=4.30.0
+

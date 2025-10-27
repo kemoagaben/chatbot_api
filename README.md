@@ -1,6 +1,15 @@
 # Chatbot API
 
-Bu proje, ... için geliştirilmiş bir Python tabanlı chatbot API'sidir.
+Bu proje, yapay zeka destekli sohbet botları için geliştirilmiş bir Python tabanlı chatbot API'sidir. FastAPI frameworkü kullanılarak oluşturulmuştur ve modern, hızlı ve ölçeklenebilir bir yapıya sahiptir.
+
+## 🚀 Özellikler
+
+- **FastAPI Framework**: Yüksek performanslı ve modern API
+- **Asenkron İşlemler**: Hızlı yanıt süreleri
+- **Otomatik Dokümantasyon**: Swagger UI entegrasyonu
+- **Docker Desteği**: Kolay deployment
+- **RESTful API**: Standart HTTP metodları
+- **JSON Format**: Kolay entegrasyon
 
 ## Kurulum
 
